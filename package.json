@@ -10,7 +10,7 @@
     "prebuild": "npx prisma generate && npx prisma db push",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.16",

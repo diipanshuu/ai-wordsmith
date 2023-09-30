@@ -8,8 +8,8 @@ const openSans = Open_Sans({
 });
 
 export const metadata = {
-  title: "Blog AI App",
-  description: "Blog built in Next JS that uses AI",
+  title: "AiWordsmith",
+  description: "Elevate your content with AiWordsmith, the Next.js blog powered by AI. Effortlessly create engaging articles and blogs with AI assistance."
 };
 
 export default function RootLayout({
