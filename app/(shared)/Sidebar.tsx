@@ -40,7 +40,7 @@ const Sidebar = (props: Props) => {
         Dipanshu Awandkar
       </h4>
       <p className="text-wh-500 text-center text-sm">
-        Continuously learning, coding, and refining my skills to craft efficient and elegant solutions. Debugging is my superpower, and I thrive on turning complex problems into elegant code. Let's build a better digital world together! 💻🌟
+        Continuously learning, coding, and refining my skills to craft efficient and elegant solutions. Debugging is my superpower, and I thrive on turning complex problems into elegant code. Let&apos;s build a better digital world together! 💻🌟
       </p>
     </section>
   );
