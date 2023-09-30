@@ -6,26 +6,24 @@ const Footer = () => {
       <div className="justify-between mx-auto gap-16 sm:flex">
         {/* FIRST COLUMN */}
         <div className="mt-16 basis-1/2 sm:mt-0">
-          <h4 className="font-bold">BLOG OF THE FUTURE</h4>
+          <h4 className="font-bold">AiWordsmith</h4>
           <p className="my-5">
-            Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum
-            purus et arcu massa dictum condimentum. Augue scelerisque iaculis
-            orci ut habitant laoreet. Iaculis tristique.
+            Empower your creativity with AIWordsmith ✨. Our innovative blog app harnesses the power of ChatGPT to craft engaging and insightful content tailored to your input 🚀. Let AIWordsmith transform your ideas into beautifully written blogs, making content creation effortless and inspiring 📝.
           </p>
-          <p>© Blog of the Future All Rights Reserved.</p>
+          <p>© AiWordsmith 2023. All rights reserved.</p>
         </div>
         {/* SECOND COLUMN */}
         <div className="mt-16 basis-1/4 sm:mt-0">
           <h4 className="font-bold">Links</h4>
-          <p className="my-5">Massa orci senectus</p>
-          <p className="my-5">Some random link again</p>
-          <p>Ullamcorper vivamus</p>
+          <p className="my-5">GitHub</p>
+          <p className="my-5">LinkedIn</p>
+          <p>Portfolio</p>
         </div>
         {/* THIRD COLUMN */}
         <div className="mt-16 basis-1/4 sm:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Tempus metus mattis risus volutpat egestas.</p>
-          <p>(333)425-6825</p>
+          <p className="my-5">Baner-Pashan Link Road, Pune-411021, Mh, India</p>
+          <p>7666344992</p>
         </div>
       </div>
     </footer>
