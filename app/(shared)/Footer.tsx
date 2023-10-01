@@ -15,8 +15,12 @@ const Footer = () => {
         {/* SECOND COLUMN */}
         <div className="mt-16 basis-1/4 sm:mt-0">
           <h4 className="font-bold">Links</h4>
-          <p className="my-5">GitHub</p>
-          <p className="my-5">LinkedIn</p>
+          <p className="my-5">
+          <a href="https://github.com/diipanshuu">GitHub</a>
+          </p>
+          <p className="my-5">
+          <a href="https://www.linkedin.com/in/diipanshuu">LinkedIn</a>
+          </p>
           <p>Portfolio</p>
         </div>
         {/* THIRD COLUMN */}
